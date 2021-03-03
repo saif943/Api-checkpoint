@@ -1,0 +1,6 @@
+.c {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  margin: 5% 40%;
+}
